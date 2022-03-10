@@ -1,7 +1,7 @@
 
 
 ## Installation
-
+## A Decentralized MarketPlace to sell and buy Articles using Ethers
 1. Install Truffle globally.
     ```javascript
     npm install -g truffle
